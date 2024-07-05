@@ -9,9 +9,9 @@
  
   -  <b>Penetration Testing Tools Project Project</b>
   - [NMAP lab project For Vulnerabilities Testing](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
-  -  [Metasploitb project "For Web Apps & Sheel Testing](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
-  - [Wiresharkb project "For Credentials and Wireless](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
-  - [Splunk  lab project "For Splunk logs and detection](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  -  [Metasploit lab project "For Web Apps & Sheel Testing](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - [Wireshark lab project "For Credentials and Wireless](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - [Splunk lab project "For Splunk logs and detection](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
     
 - <b>Web Programming with Python and JavaScript- html elements page (H1-3 title & Headings) Project</b>
   - [Web Programming with Python and JavaScript (H1-3 title & Headings)](https://github.com/amongrue/Web-Programming-with-Python-and-JavaScript--html-elements-page)
