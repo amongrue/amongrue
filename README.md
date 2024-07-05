@@ -50,8 +50,8 @@
 
 <h2>📺 Amos Physical Security Systems Project and Future Popular Lab Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- Amos-Physical Security Systems Project](https://www.youtube.com/watch?v=a83ASGn_V_s)
+-  Amos-Future Popular Lab Videos ](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
 <h2> 🤳 Connect with Amos G.Mongrue :</h2>
