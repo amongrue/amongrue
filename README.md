@@ -46,7 +46,7 @@
   - - <b>Vendor Risk Management Project Design</b>
   - Vendor Risk Management Project Design "Using NIST Third-Party Compliance Checklist is a three-part guide designed for third-party risk management practitioners ](https://github.com/amongrue/Vendor-Risk-Management-Project-Design)
   - - <b>Business Continuity Plan Development Project Design</b>
-  - Business Continuity Plan Development Project Design"Responding to and recover from potential threats from potential threats as effectively as possible.](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - Business Continuity Plan Development Project Design"Responding to and recover from potential threats from potential threats as effectively as possible.](https://github.com/amongrue/Business-Continuity-Plan-Development-Project-Design)
 
 <h2>📺 Amos Physical Security Systems Project and Popular Lab Videos</h2>
 
