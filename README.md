@@ -37,7 +37,7 @@
   - - <b> Amos Cyber Security GRC Projects</b>
   - [Risk Register Development Project Design "possible mitigation plan that response to Organization Risk](https://github.com/amongrue/Risk-Register-Development-Project-Design)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
-  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - [Compliance Checklist Creation Project Design "deliverable summarizes major planning and IT compliance obligations that directly relate to project regulations and standards](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
