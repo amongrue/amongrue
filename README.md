@@ -39,10 +39,10 @@
   - - <b>Risk Register Development Project Design</b>
   
   - Risk Register Development Project Design "possible mitigation plan that response to Organization Risk](https://github.com/amongrue/Risk-Register-Development-Project-Design)
-  - - <b>Compliance Checklist Creation Project Design</b>
+  -  <b>Compliance Checklist Creation Project Design</b>
   - Compliance Checklist Creation Project Design "deliverable summarizes major planning and IT compliance obligations that directly relate to project regulations and standards]([https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project](https://github.com/amongrue/Compliance-Checklist-Creation-Project-Design)
-  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
-  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  -  <b>Policy and Procedure Documentation Project Design-</b>
+  - Policy and Procedure Documentation Project Design "project's direction, methods, timeline, purpose, and stakeholders](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
