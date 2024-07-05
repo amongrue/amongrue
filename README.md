@@ -6,16 +6,19 @@
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
 - <b>Building A secure Network Design Infrasture Project (Azure,Amazon AWS, Microsoft Azure,Google Cloud Platform GCP)</b>
   - Role base access control (RBAC)& Using IAM system(https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+    
 - <b>Web Programming with Python and JavaScript- html elements page (H1-3 title & Headings) Project</b>
   - [Web Programming with Python and JavaScript (H1-3 title & Headings)](https://github.com/amongrue/Web-Programming-with-Python-and-JavaScript--html-elements-page)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+    
 - <b>Running Vulnerability Scane Operation using SIMs tools (Oracle VM VitualBox,Kali Linux, Pentesting-CVE,Splunk, etc)</b>
   - [Oracle VM VitualBox Proof of Concept (Oracle VM VitualBox)](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
   - [Kali Linux Proof of Concept (Oracle VM VitualBox)](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
   - [Splunk](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
   - [Pentesting-CVE](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
+    
 - <b> Cybersecurity Professional Certifications </b>
   - [All Cerbersecurity and Networking Systems Professional Certifications (CompTIA Cybersecurity Analyst (CySA+),CompTIA PenTest+Sec +, Network +,ISACA Certified Information Security Manager (CISM,COMpTIA CySA,Pythron,CompTIA PenTest + ce, Etc )](https://github.com/amongrue/Professional-Certifications)
     
