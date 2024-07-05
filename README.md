@@ -19,10 +19,10 @@
 - <b> Cybersecurity Professional Certifications </b>
   - [All Cerbersecurity and Networking Systems Professional Certifications (CompTIA Cybersecurity Analyst (CySA+),CompTIA PenTest+Sec +, Network +,ISACA Certified Information Security Manager (CISM,COMpTIA CySA,Pythron,CompTIA PenTest + ce, Etc )](https://github.com/amongrue/Professional-Certifications)
     
-    -  <b>SoC-AnalystProject</b>
+    -  <b>SOC-Analyst Project & Tools </b>
   - [Using SIM,SEM,& SIEM forLogs Collections, Aggregation,Rise Alert,Categorized, Response,indexing,EDR,SOAR, etc.](https://github.com/amongrue/SoC-Analyst-Projects).
  
-  -  <b>Microsoft(Azure) and Cloud solutions Project</b>
+  -  <b> SIEM, & SOAR Tools and Technologies Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
 
 <h2>📺 Amos Physical Security Systems Project and Popular Lab Videos</h2>
