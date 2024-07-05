@@ -48,7 +48,7 @@
   - - <b>Business Continuity Plan Development Project Design</b>
   - Business Continuity Plan Development Project Design"Responding to and recover from potential threats from potential threats as effectively as possible.](https://github.com/amongrue/Business-Continuity-Plan-Development-Project-Design)
 
-<h2>📺 Amos Physical Security Systems Project and Future Popular Lab Videos</h2>
+<h2>📺 Amos Physical Security Systems Specialist Project and Future Popular Lab Videos</h2>
 
 - Amos-Physical Security Systems Project](https://github.com/amongrue/Physical-Security-Systems-)
 -  Amos-Future Popular Lab Videos ](https://github.com/amongrue/Future-Popular-Lab-Videos)
