@@ -44,7 +44,7 @@
   -  <b>Policy and Procedure Documentation Project Design-</b>
   - Policy and Procedure Documentation Project Design "project's direction, methods, timeline, purpose, and stakeholders](https://github.com/amongrue/Policy-and-Procedure-Documentation-Project-Design)
   - - <b>Vendor Risk Management Project Design</b>
-  - Vendor Risk Management Project Design "Using NIST Third-Party Compliance Checklist is a three-part guide designed for third-party risk management practitioners ](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - Vendor Risk Management Project Design "Using NIST Third-Party Compliance Checklist is a three-part guide designed for third-party risk management practitioners ](https://github.com/amongrue/Vendor-Risk-Management-Project-Design)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
 
