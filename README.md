@@ -8,7 +8,7 @@
   - Role base access control (RBAC)& Using IAM system(https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
     
   - Amos- Building A secure Network Design/Topology Project</b>
-  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Network-design-network-topology)
+  - Building A secure Network Design "Topology](https://github.com/amongrue/Network-design-network-topology)
  
   -  <b> Amos Penetration Testing Tools Project Project</b>
   - [NMAP lab project For Vulnerabilities Testing](https://github.com/amongrue/For-Vulnerabilities-Testing)
