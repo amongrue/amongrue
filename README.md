@@ -4,8 +4,11 @@
 
 - <b> Amos Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
-- <b>Building A secure Network Design Infrasture Project (Azure,Amazon AWS, Microsoft Azure,Google Cloud Platform GCP)</b>
+- <b>Amos- Building A secure Hybrid Cloud Design Infrastucture Project (Azure,Amazon AWS, Microsoft Azure,Google Cloud Platform GCP)</b>
   - Role base access control (RBAC)& Using IAM system(https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+    
+  - Amos- Building A secure Network Design/Topology Project</b>
+  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
  
   -  <b> Amos Penetration Testing Tools Project Project</b>
   - [NMAP lab project For Vulnerabilities Testing](https://github.com/amongrue/For-Vulnerabilities-Testing)
@@ -45,7 +48,7 @@
   - - <b>Business Continuity Plan Development Project Design</b>
   - Business Continuity Plan Development Project Design"Responding to and recover from potential threats from potential threats as effectively as possible.](https://github.com/amongrue/Business-Continuity-Plan-Development-Project-Design)
 
-<h2>📺 Amos Physical Security Systems Project andFuture Popular Lab Videos</h2>
+<h2>📺 Amos Physical Security Systems Project and Future Popular Lab Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
