@@ -18,6 +18,8 @@
   - [Pentesting-CVE](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
 - <b> Cybersecurity Professional Certifications </b>
   - [All Cerbersecurity and Networking Systems Professional Certifications (CompTIA Cybersecurity Analyst (CySA+),CompTIA PenTest+Sec +, Network +,ISACA Certified Information Security Manager (CISM,COMpTIA CySA,Pythron,CompTIA PenTest + ce, Etc )](https://github.com/amongrue/Professional-Certifications)
+  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
+  - <b>Microsoft(Azure) and Cloud solutions Project</b>
 
 <h2>📺 Amos Physical Security Systems Project and Popular Lab Videos</h2>
 
