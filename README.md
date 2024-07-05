@@ -33,6 +33,17 @@
  
   -  <b> SIEM, & SOAR Tools and Technologies Project</b>
   - [Detecting security threats,Containing the threat at the endpoint,Investigating the threat,& Remediating the threat before it spreads ](https://github.com/amongrue/SIEM-SOAR-Tools-and-Technologies-Project)
+    
+  - - <b> Amos Cyber Security GRC Projects</b>
+  - [Risk Register Development Project Design "possible mitigation plan that response to Organization Risk](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
+  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
+  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
+  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
+  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
 
 <h2>📺 Amos Physical Security Systems Project and Popular Lab Videos</h2>
 
