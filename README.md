@@ -51,7 +51,7 @@
 <h2>📺 Amos Physical Security Systems Project and Future Popular Lab Videos</h2>
 
 - Amos-Physical Security Systems Project](https://github.com/amongrue/Physical-Security-Systems-)
--  Amos-Future Popular Lab Videos ](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+-  Amos-Future Popular Lab Videos ](https://www.youtube.com/watch?v=uHy3oM7NnoU](https://github.com/amongrue/Future-Popular-Lab-Videos)
 
 
 <h2> 🤳 Connect with Amos G.Mongrue :</h2>
