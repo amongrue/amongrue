@@ -17,7 +17,7 @@
   - [Splunk](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
   - [Pentesting-CVE](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
 - <b> Cybersecurity Professional Certifications </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [All Cerbersecurity and Networking Systems Professional Certifications (CompTIA Cybersecurity Analyst (CySA+),CompTIA PenTest+Sec +, Network +,ISACA Certified Information Security Manager (CISM,COMpTIA CySA,Pythron,CompTIA PenTest + ce, Etc )](https://github.com/amongrue/Professional-Certifications)
 
 <h2>📺 Amos Physical Security Systems Project and Popular Lab Videos</h2>
 
