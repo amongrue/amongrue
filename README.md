@@ -23,7 +23,7 @@
   - [Using SIM,SEM,& SIEM forLogs Collections, Aggregation,Rise Alert,Categorized, Response,indexing,EDR,SOAR, etc.](https://github.com/amongrue/SoC-Analyst-Projects).
  
   -  <b> SIEM, & SOAR Tools and Technologies Project</b>
-  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - [Detecting security threats,Containing the threat at the endpoint,Investigating the threat,& Remediating the threat before it spreads ](https://github.com/amongrue/SIEM-SOAR-Tools-and-Technologies-Project)
 
 <h2>📺 Amos Physical Security Systems Project and Popular Lab Videos</h2>
 
