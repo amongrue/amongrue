@@ -12,10 +12,10 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Running Vulnerability Scane Operation using SIMs tools (Oracle VM VitualBox,Kali Linux, Pentesting-CVE,Splunk, etc)</b>
-  - [Oracle VM VitualBox Proof of Concept (Oracle VM VitualBox)](https://github.com/amongrue/Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity)
-  - [Kali Linux Proof of Concept (Oracle VM VitualBox)](https://github.com/amongrue/Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity)
-  - [Splunk](https://github.com/amongrue/Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity)
-  - [Pentesting-CVE](https://github.com/amongrue/Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity)
+  - [Oracle VM VitualBox Proof of Concept (Oracle VM VitualBox)](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
+  - [Kali Linux Proof of Concept (Oracle VM VitualBox)](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
+  - [Splunk](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
+  - [Pentesting-CVE](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
 - <b> Cybersecurity Professional Certifications </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
