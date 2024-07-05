@@ -20,7 +20,7 @@
   - [All Cerbersecurity and Networking Systems Professional Certifications (CompTIA Cybersecurity Analyst (CySA+),CompTIA PenTest+Sec +, Network +,ISACA Certified Information Security Manager (CISM,COMpTIA CySA,Pythron,CompTIA PenTest + ce, Etc )](https://github.com/amongrue/Professional-Certifications)
     
     -  <b>Microsoft(Azure) and Cloud solutions Project</b>
-  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/SoC-Analyst-Projects).
  
   -  <b>Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
