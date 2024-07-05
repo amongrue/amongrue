@@ -35,9 +35,10 @@
   - [Detecting security threats,Containing the threat at the endpoint,Investigating the threat,& Remediating the threat before it spreads ](https://github.com/amongrue/SIEM-SOAR-Tools-and-Technologies-Project)
     
   - - <b> Amos Cyber Security GRC Projects</b>
+  - - <b>Risk Register Development Project Design</b>
   - [Risk Register Development Project Design "possible mitigation plan that response to Organization Risk](https://github.com/amongrue/Risk-Register-Development-Project-Design)
-  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
-  - [Compliance Checklist Creation Project Design "deliverable summarizes major planning and IT compliance obligations that directly relate to project regulations and standards](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - - <b>Compliance Checklist Creation Project Design</b>
+  - [Compliance Checklist Creation Project Design "deliverable summarizes major planning and IT compliance obligations that directly relate to project regulations and standards]([https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project](https://github.com/amongrue/Compliance-Checklist-Creation-Project-Design)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
