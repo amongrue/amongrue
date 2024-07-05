@@ -15,9 +15,6 @@
     
 - <b>Web Programming with Python and JavaScript- html elements page (H1-3 title & Headings) Project</b>
   - [Web Programming with Python and JavaScript (H1-3 title & Headings)](https://github.com/amongrue/Web-Programming-with-Python-and-JavaScript--html-elements-page)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 - <b>Running Vulnerability Scane Operation using SIMs tools (Oracle VM VitualBox,Kali Linux, Pentesting-CVE,Splunk, etc)</b>
   - [Oracle VM VitualBox Proof of Concept (Oracle VM VitualBox)](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
