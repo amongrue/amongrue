@@ -37,6 +37,7 @@
   - - <b> Amos Cyber Security GRC Projects</b>
   
   - - <b>Risk Register Development Project Design</b>
+  
   - Risk Register Development Project Design "possible mitigation plan that response to Organization Risk](https://github.com/amongrue/Risk-Register-Development-Project-Design)
   - - <b>Compliance Checklist Creation Project Design</b>
   - Compliance Checklist Creation Project Design "deliverable summarizes major planning and IT compliance obligations that directly relate to project regulations and standards]([https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project](https://github.com/amongrue/Compliance-Checklist-Creation-Project-Design)
