@@ -26,7 +26,7 @@
   - [Pentesting-CVE](https://github.com/amongrue/Vulnerability-Scane-Operation-using-SIMs-tools-)
     
 - <b> Amos Cybersecurity and Networking System Professional Certifications </b>
-  - [All Cerbersecurity and Networking Systems Professional Certifications (CompTIA Cybersecurity Analyst (CySA+), CompTIA PenTest+Sec +, Network +, ISACA Certified Information Security Manager (CISM), COMpTIA CySA, Pythron, CompTIA PenTest + ce, Etc )](https://github.com/amongrue/Professional-Certifications)
+  - [All Cerbersecurity and Networking Systems Professional Certifications (CompTIA Cybersecurity Analyst (CySA+), CompTIA PenTest+Sec +, Network +, ISACA Certified Information Security Manager (CISM), COMpTIA CySA, Pythron, CompTIA PenTest + ce, Etc. )](https://github.com/amongrue/Professional-Certifications)
     
     -  <b> Amos SOC-Analyst Project & Tools </b>
   - [Using SIM,SEM,& SIEM forLogs Collections, Aggregation,Rise Alert,Categorized, Response,indexing,EDR,SOAR, etc.](https://github.com/amongrue/SoC-Analyst-Projects).
