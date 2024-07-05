@@ -12,9 +12,9 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Running Vulnerability Scane Operation using SIMs tools (Oracle VM VitualBox,Kali Linux, Pentesting-CVE,Splunk, etc)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/amongrue/Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/amongrue/Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity)
+  - [Keylogger with Email Capability](https://github.com/amongrue/Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity)
 - <b> Cybersecurity Professional Certifications </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
