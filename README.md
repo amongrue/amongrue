@@ -21,6 +21,9 @@
     
     -  <b>Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+ 
+  -  <b>Microsoft(Azure) and Cloud solutions Project</b>
+  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
 
 <h2>📺 Amos Physical Security Systems Project and Popular Lab Videos</h2>
 
