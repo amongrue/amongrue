@@ -43,8 +43,8 @@
   - Compliance Checklist Creation Project Design "deliverable summarizes major planning and IT compliance obligations that directly relate to project regulations and standards]([https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project](https://github.com/amongrue/Compliance-Checklist-Creation-Project-Design)
   -  <b>Policy and Procedure Documentation Project Design-</b>
   - Policy and Procedure Documentation Project Design "project's direction, methods, timeline, purpose, and stakeholders](https://github.com/amongrue/Policy-and-Procedure-Documentation-Project-Design)
-  - - <b>Microsoft(Azure) and Cloud solutions Project</b>
-  - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - - <b>Vendor Risk Management Project Design</b>
+  - Vendor Risk Management Project Design "Using NIST Third-Party Compliance Checklist is a three-part guide designed for third-party risk management practitioners ](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
   - - <b>Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
 
