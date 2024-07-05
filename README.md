@@ -35,6 +35,7 @@
   - [Detecting security threats,Containing the threat at the endpoint,Investigating the threat,& Remediating the threat before it spreads ](https://github.com/amongrue/SIEM-SOAR-Tools-and-Technologies-Project)
     
   - - <b> Amos Cyber Security GRC Projects</b>
+  
   - - <b>Risk Register Development Project Design</b>
   - [Risk Register Development Project Design "possible mitigation plan that response to Organization Risk](https://github.com/amongrue/Risk-Register-Development-Project-Design)
   - - <b>Compliance Checklist Creation Project Design</b>
