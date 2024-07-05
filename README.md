@@ -5,7 +5,7 @@
 - <b> Amos Microsoft(Azure) and Cloud solutions Project</b>
   - [Microsoft Azure cloud lab project "Hybrid cloud](https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
 - <b>Amos- Building A secure Hybrid Cloud Design Infrastucture Project (Azure,Amazon AWS, Microsoft Azure,Google Cloud Platform GCP)</b>
-  - Role base access control (RBAC)& Using IAM system(https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
+  - Role base access control (RBAC) using IAM system(https://github.com/amongrue/Microsoft-Azure-Cloud-solutions-Project)
     
   - Amos- Building A secure Network Design/Topology Project</b>
   - Building A secure Network Design "Topology](https://github.com/amongrue/Network-design-network-topology)
