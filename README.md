@@ -34,7 +34,7 @@
   -  <b> Amos SIEM, & SOAR Tools and Technologies Project</b>
   - [Detecting security threats,Containing the threat at the endpoint,Investigating the threat,& Remediating the threat before it spreads ](https://github.com/amongrue/SIEM-SOAR-Tools-and-Technologies-Project)
     
-  - - <b> Amos Cyber Security GRC Projects</b>
+  - - <b> Amos Cyber Security Governance, Risk, and Compliance (GRC) Projects</b>
   
   - - <b>Risk Register Development Project Design</b>
   
